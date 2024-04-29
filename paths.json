@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/gems/:/"
+    "/content/gems/:/",
+    "/content/gems/configuration:/.helix/config.json"
   ]
 }
